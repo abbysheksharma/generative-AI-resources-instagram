@@ -4,11 +4,12 @@
 - Installing Python & VS Code
 - Running Python Programs
 - Variables
-- Data Types
+- Primitive Data Types
+  - str
   - int
   - float
-  - str
   - bool
+  - NoneType
 - Input / Output
 - Type Conversion
 - Operators
@@ -16,10 +17,11 @@
   - Comparison Operators
   - Logical Operators
   - Assignment Operators
-- Lists
-- Tuples
-- Dictionaries
-- Sets
+- Collection Data Types
+  - Lists
+  - Tuples
+  - Dictionaries
+  - Sets
 
 ---
 
