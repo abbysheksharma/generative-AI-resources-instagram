@@ -10,10 +10,10 @@ def greet():
 greet()
 print(name)
 
-# def outer():
-#     name = "Abhishek"
-#     def inner():
-#         print(name)
-#     inner()
+def outer():
+    name = "Abhishek"
+    def inner():
+        print(name)
+    inner()
 
-# outer()
+outer()
