@@ -43,10 +43,8 @@
 - Parameters & Arguments
 - Return Values
 - Scope (Local vs Global)
-- Import Statements
+- Import Statements / Creating Custom Modules
 - Built-in Modules
-- Creating Custom Modules
-
 ---
 
 ## Module 4: Working with Data
