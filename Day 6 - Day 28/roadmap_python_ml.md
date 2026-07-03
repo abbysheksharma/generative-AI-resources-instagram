@@ -92,7 +92,7 @@
 - Bar Charts
 - Scatter Plots
 - Histograms
-- Data Visualization Basics
+- Data Visualization Basics.
 
 ---
 
