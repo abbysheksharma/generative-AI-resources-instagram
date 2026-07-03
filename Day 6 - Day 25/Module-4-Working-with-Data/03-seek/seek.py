@@ -1,0 +1,5 @@
+file = open("details.txt", "w+")
+file.write("lorem ipsum")
+file.seek(4)
+print(file.read())
+file.close()
